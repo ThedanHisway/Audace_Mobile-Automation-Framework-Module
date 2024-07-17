@@ -1,6 +1,8 @@
-## OverView:
-Mobile Automation Framework Module - A robust, fault-tolerant module developed for managing Appium connections and executing touch actions on mobile devices.
-##SetUps(Dependencies):
+## Mobile Automation Framework Modul
+
+1.Overview- A robust, fault-tolerant module developed for managing Appium connections and executing touch actions on mobile devices.
+
+2.SetUps(Dependencies):
 Install the following dependencies:
 1.Python 
 2.Appium
