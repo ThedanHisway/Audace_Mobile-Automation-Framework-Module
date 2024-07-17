@@ -1,4 +1,4 @@
-## Mobile Automation Framework Modul
+## Mobile Automation Framework Module
 
 1.Overview- A robust, fault-tolerant module developed for managing Appium connections and executing touch actions on mobile devices and the key components(Classes) are: AppiumConnectionManager, DeviceInteraction,DeviceStateTracker, Configuration Management and Error Handling and Recovery.
 
