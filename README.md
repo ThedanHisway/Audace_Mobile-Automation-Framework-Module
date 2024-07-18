@@ -8,7 +8,7 @@ Install the following dependencies:
 1.Python 
 2.Appium
 3.Appium Python Client
-4.YAML - for configuration management and also Use Node.js and Android Studio.
+4.YAML - for configuration management and also Used Node.js and Android Studio.
 
 3.Usage Examples Have been tested and few error handling techniques used are :
 1.Device Disconnection
